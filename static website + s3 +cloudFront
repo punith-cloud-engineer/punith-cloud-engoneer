@@ -13,7 +13,4 @@ I deployed my personal portfolio website using AWS cloud services and secured it
 - Integrated CloudFront for fast global delivery
 - Enabled HTTPS for secure browsing
 
-🔗 **Live Website:** https://your-cloudfront-url  
-🔗 **Project Repository:** https://github.com/yourusername/aws-s3-portfolio-cloudfront  
 
-📖 **Blog:** (https://dev.to/punith_gp_942a758bec5510/how-i-deployed-my-portfolio-website-on-aws-s3-and-secured-it-with-cloudfront-3onc)
